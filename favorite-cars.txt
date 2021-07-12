@@ -1,3 +1,4 @@
 {
-  car1 : Miata
+  car1 : Miata,
+  car2: Toyota 4Runner
 }
